@@ -1,0 +1,29 @@
+# Betriebssystem
+.DS_Store
+.AppleDouble
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editoren und IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Abhängigkeiten und Build-Reste (falls später ergänzt)
+node_modules/
+dist/
+.cache/
+
+# Logs und Umgebungsvariablen
+*.log
+npm-debug.log*
+.env
+.env.*
+
+# Temporäre Dateien
+*.bak
+*.tmp
+*.zip
